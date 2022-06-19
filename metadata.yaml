@@ -1,0 +1,28 @@
+_repo: A-caution-to-Great-Britain-and-her-colonies_68337
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Benezet, Anthony
+    birthdate: 1713
+    deathdate: 1784
+    gutenberg_agent_id: '3995'
+    url: http://www.gutenberg.org/2009/agents/3995
+    wikipedia: https://en.wikipedia.org/wiki/Anthony_Benezet
+description: ''
+gutenberg_issued: '2022-06-17'
+identifiers:
+  gutenberg: '68337'
+language: en
+pgterms:marc905: 20220415193049benezet
+pgterms:marc906: '1784'
+pgterms:marc907: US
+production_note: Robert Tonsing and The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :None listed,1784.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A caution to Great Britain and her colonies
+url: http://www.gutenberg.org/ebooks/68337
